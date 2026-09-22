@@ -1,24 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:00F0FF&height=220&section=header&text=SYSTEM%20INITIALIZED&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=ANA%20CAROLINE%20%7C%20SOFTWARE%20%26%20DATA%20%7C%20AI&descAlignY=61&descSize=17&descColor=00F0FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,25:3C096C,55:7B2FF7,100:E000FF&height=260&section=header&text=SYSTEM%20INITIALIZED&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=ANA%20CAROLINE%20SANTOS%20%7C%20SOFTWARE%20%26%20DATA%20%7C%20AI&descAlignY=58&descSize=19&descColor=E0AAFF" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=850&lines=%3E+Initializing+Ana.Caroline.exe...;%3E+Software+Developer+in+progress;%3E+Python+%7C+C%23+%7C+React+%7C+SQL;%3E+Exploring+Artificial+Intelligence;%3E+Building+ideas+into+real+solutions.;%3E+SYSTEM_STATUS%3A+ONLINE+%E2%9C%93" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=E000FF&center=true&vCenter=true&width=900&lines=%3E+Initializing+Ana.Caroline.exe...;%3E+Software+Developer+in+progress;%3E+Python+%7C+C%23+%7C+React+%7C+SQL;%3E+Exploring+Artificial+Intelligence;%3E+Building+ideas+into+real+solutions.;%3E+SYSTEM_STATUS%3A+ONLINE+%E2%9C%93" alt="Typing Animation"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E000FF,50:7B2FF7,100:3C096C&height=4&width=100%25" width="100%"/>
 
 <br>
 
 <a href="https://github.com/anacarolinesantossz">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/GITHUB-10002B?style=for-the-badge&logo=github&logoColor=E000FF"/>
 </a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF"/>
+<a href="https://www.linkedin.com/in/ana-caroline-santos-09209a280/">
+<img src="https://img.shields.io/badge/LINKEDIN-10002B?style=for-the-badge&logo=linkedin&logoColor=E000FF"/>
 </a>
 <a href="https://anacarolinesantossz.pythonanywhere.com/">
-<img src="https://img.shields.io/badge/VELY-0D1117?style=for-the-badge&logo=python&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/VELY-10002B?style=for-the-badge&logo=python&logoColor=E000FF"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=anacarolinesantossz&label=SYSTEM%20VISITS&color=00F0FF&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=anacarolinesantossz&label=SYSTEM%20VISITS&color=E000FF&style=flat-square" alt="Profile views"/>
 
 </div>
 
@@ -28,20 +32,20 @@
 
 ```text
 ╭──────────────────────────────────────────────────────────────╮
-│                     SYSTEM PROFILE                          │
+│                     SYSTEM PROFILE                            │
 ├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  NAME       :: Ana Caroline                                  │
-│  ROLE       :: Software Developer in progress                │
-│  FOCUS      :: Software • Data • Artificial Intelligence     │
-│                                                              │
-│  EDUCATION  :: Análise e Desenvolvimento de Sistemas         │
+│                                                                │
+│  NAME       :: Ana Caroline Santos                            │
+│  ROLE       :: Software Developer in progress                 │
+│  FOCUS      :: Software • Data • Artificial Intelligence      │
+│                                                                │
+│  EDUCATION  :: Análise e Desenvolvimento de Sistemas          │
 │             :: Bacharelado em Ciência de Dados                │
-│                                                              │
+│                                                                │
 │  CURRENT    :: Building real-world technology solutions       │
-│                                                              │
-│  STATUS     :: ████████████████████░░  LEARNING              │
-│                                                              │
+│                                                                │
+│  STATUS     :: ████████████████████░░  LEARNING               │
+│                                                                │
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
@@ -88,20 +92,20 @@ while True:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=512BD4"/>
-<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791"/>
+<img src="https://img.shields.io/badge/Python-10002B?style=for-the-badge&logo=python&logoColor=E000FF"/>
+<img src="https://img.shields.io/badge/C%23-10002B?style=for-the-badge&logo=csharp&logoColor=E000FF"/>
+<img src="https://img.shields.io/badge/Java-10002B?style=for-the-badge&logo=openjdk&logoColor=E000FF"/>
+<img src="https://img.shields.io/badge/React-10002B?style=for-the-badge&logo=react&logoColor=E000FF"/>
+<img src="https://img.shields.io/badge/Flask-10002B?style=for-the-badge&logo=flask&logoColor=E000FF"/>
+<img src="https://img.shields.io/badge/SQL-10002B?style=for-the-badge&logo=postgresql&logoColor=E000FF"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
-<img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Git-10002B?style=for-the-badge&logo=git&logoColor=E000FF"/>
+<img src="https://img.shields.io/badge/GitHub-10002B?style=for-the-badge&logo=github&logoColor=E000FF"/>
+<img src="https://img.shields.io/badge/VS_Code-10002B?style=for-the-badge&logo=visualstudiocode&logoColor=E000FF"/>
+<img src="https://img.shields.io/badge/Jupyter-10002B?style=for-the-badge&logo=jupyter&logoColor=E000FF"/>
+<img src="https://img.shields.io/badge/AWS-10002B?style=for-the-badge&logo=amazonaws&logoColor=E000FF"/>
 
 </div>
 
@@ -143,10 +147,46 @@ INSIGHTS
 <br>
 
 <a href="https://anacarolinesantossz.pythonanywhere.com/">
-<img src="https://img.shields.io/badge/LIVE%20PROJECT-00F0FF?style=for-the-badge&logo=python&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/LIVE%20PROJECT-E000FF?style=for-the-badge&logo=python&logoColor=10002B"/>
 </a>
 
 </td>
+
+<td width="50%" valign="top">
+
+<h3>💜 HAPPY IDOSOS</h3>
+
+<b>Technology for Social Impact</b>
+
+<br><br>
+
+Projeto voltado à conexão entre voluntários e instituições, utilizando tecnologia para facilitar ações de impacto social.
+
+```text
+PEOPLE
+ ↓
+TECHNOLOGY
+ ↓
+CONNECTION
+ ↓
+IMPACT
+```
+
+**Focus**
+
+`Web` `Social Impact` `UX` `Teamwork`
+
+<br>
+
+<a href="https://www.happyidosos.com.br/sobreprojeto">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT%20%F0%9F%92%9C-E000FF?style=for-the-badge&logoColor=10002B"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -177,38 +217,8 @@ EVALUATION
 <br>
 
 <a href="https://github.com/anacarolinesantossz?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORIES-00F0FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORIES-E000FF?style=for-the-badge&logo=github&logoColor=10002B"/>
 </a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>💙 HAPPY IDOSOS</h3>
-
-<b>Technology for Social Impact</b>
-
-<br><br>
-
-Projeto voltado à conexão entre voluntários e instituições, utilizando tecnologia para facilitar ações de impacto social.
-
-```text
-PEOPLE
- ↓
-TECHNOLOGY
- ↓
-CONNECTION
- ↓
-IMPACT
-```
-
-**Focus**
-
-`Web` `Social Impact` `UX` `Teamwork`
 
 </td>
 
@@ -272,13 +282,13 @@ DECISION
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=anacarolinesantossz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=SYSTEM%20STATISTICS"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=anacarolinesantossz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=SYSTEM%20STATISTICS&bg_color=10002B&title_color=E000FF&icon_color=E000FF&text_color=C9D1D9&border_color=E000FF"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinesantossz&layout=compact&theme=github_dark&hide_border=true&langs_count=8&custom_title=LANGUAGE%20MATRIX"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinesantossz&layout=compact&hide_border=true&langs_count=8&custom_title=LANGUAGE%20MATRIX&bg_color=10002B&title_color=E000FF&text_color=C9D1D9&border_color=E000FF"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=anacarolinesantossz&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=anacarolinesantossz&hide_border=true&background=10002B&ring=E000FF&fire=E000FF&currStreakLabel=E000FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border=E000FF" alt="GitHub Streak"/>
 
 </div>
 
@@ -288,7 +298,7 @@ DECISION
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anacarolinesantossz&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true&custom_title=NEURAL%20ACTIVITY%20GRAPH" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anacarolinesantossz&bg_color=10002B&color=E000FF&line=E000FF&point=FFFFFF&area=true&hide_border=true&custom_title=NEURAL%20ACTIVITY%20GRAPH" width="95%"/>
 
 </div>
 
@@ -298,7 +308,7 @@ DECISION
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=anacarolinesantossz&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=anacarolinesantossz&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
@@ -312,6 +322,8 @@ DECISION
 
 </div>
 
+> ⚙️ *A animação da cobrinha precisa de um GitHub Action configurado no seu repositório de perfil (`anacarolinesantossz/anacarolinesantossz`) gerando o arquivo em uma branch `output`. Se ainda não tiver, procure por "snk" ou "github-contribution-grid-snake" no GitHub Marketplace.*
+
 ---
 
 # `10` // CONNECT
@@ -319,15 +331,19 @@ DECISION
 <div align="center">
 
 <a href="https://github.com/anacarolinesantossz">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/GitHub-10002B?style=for-the-badge&logo=github&logoColor=E000FF"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF"/>
+<a href="https://www.linkedin.com/in/ana-caroline-santos-09209a280/">
+<img src="https://img.shields.io/badge/LinkedIn-10002B?style=for-the-badge&logo=linkedin&logoColor=E000FF"/>
 </a>
 
 <a href="https://anacarolinesantossz.pythonanywhere.com/">
-<img src="https://img.shields.io/badge/Portfolio%20%2F%20Vely-0D1117?style=for-the-badge&logo=python&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Portfolio%20%2F%20Vely-10002B?style=for-the-badge&logo=python&logoColor=E000FF"/>
+</a>
+
+<a href="https://www.happyidosos.com.br/sobreprojeto">
+<img src="https://img.shields.io/badge/Happy%20Idosos%20%F0%9F%92%9C-10002B?style=for-the-badge&logoColor=E000FF"/>
 </a>
 
 </div>
@@ -338,11 +354,11 @@ DECISION
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                    SYSTEM STATUS: ONLINE                     ║
-║                                                              ║
-║        BUILDING • LEARNING • CREATING • EVOLVING             ║
-║                                                              ║
+║                                                                ║
+║                    SYSTEM STATUS: ONLINE                      ║
+║                                                                ║
+║        BUILDING • LEARNING • CREATING • EVOLVING              ║
+║                                                                ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -350,6 +366,6 @@ DECISION
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:161B22,100:0D1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E000FF,25:7B2FF7,55:3C096C,100:10002B&height=140&section=footer"/>
 
 </div>
