@@ -202,7 +202,6 @@ DADOS BRUTOS → ANÁLISE → CONHECIMENTO → DECISÃO
 <img src="https://raw.githubusercontent.com/anacarolinesantossz/anacarolinesantossz/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation"/>
 </div>
 
-> ⚙️ *A animação da cobrinha precisa de uma GitHub Action gerando o SVG na branch `output` do repositório `anacarolinesantossz/anacarolinesantossz`. Procure por "snk" no GitHub Marketplace caso ainda não tenha configurado.*
 
 <br>
 
