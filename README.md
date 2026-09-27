@@ -188,15 +188,8 @@ DADOS BRUTOS → ANÁLISE → CONHECIMENTO → DECISÃO
 
 <br>
 
-## `07` &nbsp;·&nbsp; CONQUISTAS
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anacarolinesantossz&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-</div>
-
-<br>
-
-## `08` &nbsp;·&nbsp; CONTRIBUIÇÕES
+## `07` &nbsp;·&nbsp; CONTRIBUIÇÕES
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/anacarolinesantossz/anacarolinesantossz/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation"/>
@@ -205,7 +198,7 @@ DADOS BRUTOS → ANÁLISE → CONHECIMENTO → DECISÃO
 
 <br>
 
-## `09` &nbsp;·&nbsp; CONTATO
+## `08` &nbsp;·&nbsp; CONTATO
 
 <div align="center">
 
